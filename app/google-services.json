@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "790970287659",
+    "firebase_url": "https://adminfood-ad608-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "adminfood-ad608",
+    "storage_bucket": "adminfood-ad608.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790970287659:android:566f095cf7eac4a5724c6e",
+        "android_client_info": {
+          "package_name": "com.example.foodappmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790970287659-f5e5rq2snfcn01lclrbhchfdpqub7cqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodappmanager",
+            "certificate_hash": "27fc94cea8b3557e3f8e3594d25f59ecd31d2821"
+          }
+        },
+        {
+          "client_id": "790970287659-9tgs0tj6tvkagth7stfh482nhiqsvcnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLLVTrKSD6tPMfvvzdh6VgkcDeJtKWQtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790970287659-9tgs0tj6tvkagth7stfh482nhiqsvcnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
