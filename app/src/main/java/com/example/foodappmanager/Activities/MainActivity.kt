@@ -100,7 +100,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun controls() {
         binding.addItem.setOnClickListener {
-            val intent = Intent(this, AddItemActivity::class.java)
+            val intent = Intent(this, SeclectAddActivity::class.java)
             startActivity(intent)
         }
         binding.AllItem.setOnClickListener {
